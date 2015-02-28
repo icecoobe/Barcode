@@ -1,0 +1,12 @@
+C:\Github\Barcode\Release\BarcodeLibTest.exe.manifest
+C:\Github\Barcode\Release\BarcodeLibTest.application
+C:\Github\Barcode\Release\BarcodeLibTest.exe
+C:\Github\Barcode\Release\BarcodeLibTest.pdb
+C:\Github\Barcode\_1DTest\obj\Release\ResolveAssemblyReference.cache
+C:\Github\Barcode\_1DTest\obj\Release\BarcodeLibTest.TestApp.resources
+C:\Github\Barcode\_1DTest\obj\Release\BarcodeLibTest.Properties.Resources.resources
+C:\Github\Barcode\_1DTest\obj\Release\BarcodeLibTest.csproj.GenerateResource.Cache
+C:\Github\Barcode\_1DTest\obj\Release\BarcodeLibTest.exe.manifest
+C:\Github\Barcode\_1DTest\obj\Release\BarcodeLibTest.application
+C:\Github\Barcode\_1DTest\obj\Release\BarcodeLibTest.exe
+C:\Github\Barcode\_1DTest\obj\Release\BarcodeLibTest.pdb
